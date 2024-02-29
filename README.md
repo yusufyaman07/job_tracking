@@ -16,6 +16,7 @@ This project is a web application developed to publish, list and manage job post
 * Libraries: Axios, React-Router-Dom, React-Icons, React-Toastify, Sass, Uuid, React-Redux, React-Redux-Toolkit
 
   # Preview:
+![job_tracking](https://github.com/yusufyaman07/job_tracking/assets/148998418/7cc882d1-1ba1-424c-bfd8-d6aad2c067e7)
 
 
   # Communication
