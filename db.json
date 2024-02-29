@@ -1,0 +1,94 @@
+{
+  "jobs": [
+    {
+      "id": "eab37e81-1f3a-4b30-9b24-8d89d05d3c35",
+      "position": "Software Engineer",
+      "company": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "status": "Interview",
+      "type": "Full time",
+      "date": "29.02.2024"
+    },
+    {
+      "id": "f6cd06b4-2716-4b64-bf60-84832e9cf9d0",
+      "position": "Financial Analyst",
+      "company": "Global Investments Group",
+      "location": "London, UK",
+      "status": "Interview",
+      "type": "Full time",
+      "date": "29.02.2024"
+    },
+    {
+      "id": "b32e0d45-c870-4f1f-bd45-03a90c03e86f",
+      "position": "Customer Support Representative",
+      "company": "XYZ Corporation",
+      "location": "Chicago, IL",
+      "status": "Continues",
+      "type": "Part time",
+      "date": "29.02.2024"
+    },
+    {
+      "id": "d91de9ab-6cc1-4423-8f47-3cf35b3c9c2e",
+      "position": "HR Manager",
+      "company": "HR Solutions Ltd.",
+      "location": "Sydney, Australia",
+      "status": "Interview",
+      "type": "Full time",
+      "date": "29.02.2024"
+    },
+    {
+      "id": "eac82d1b-2f60-4a0e-88cc-ef86e026c3a5",
+      "position": "Sales Associate",
+      "company": "Best Deals Inc.",
+      "location": "Toronto, Canada",
+      "status": "Denied",
+      "type": "Part time",
+      "date": "29.02.2024"
+    },
+    {
+      "id": "d4e3145d-4c7c-4523-a8cd-cf4f8e6be17b",
+      "position": "Project Manager",
+      "company": "Project X Consulting",
+      "location": "Berlin, Germany",
+      "status": "Continues",
+      "type": "Full time",
+      "date": "29.02.2024"
+    },
+    {
+      "id": "b2d2a876-6719-4b9c-8722-0e8de3839ec2",
+      "position": "Content Writer",
+      "company": "Content Creations Co.",
+      "location": "Paris, France",
+      "status": "Interview",
+      "type": "Part time",
+      "date": "29.02.2024"
+    },
+    {
+      "id": "f760db33-39a7-4f8c-a89f-ee446cc02159",
+      "position": "Data Scientist",
+      "company": "Insight Analytics Ltd.",
+      "location": "Tokyo, Japan",
+      "status": "Denied",
+      "type": "Full time",
+      "date": "29.02.2024"
+    },
+    {
+      "id": "4ddc8458-6732-4756-8223-ffcf6d0c70c0",
+      "position": "Frontend Dveloper",
+      "company": "Udemig",
+      "location": "istanbul",
+      "status": "Continues",
+      "type": "Part time",
+      "date": "29.02.2024"
+    },
+    {
+      "id": "19927ec9-12a7-4e39-974b-f9e90629ac22",
+      "position": "React Developer",
+      "company": "Emartech",
+      "location": "Fransa",
+      "status": "Continues",
+      "type": "Internship",
+      "date": "29.02.2024"
+    }
+  ]
+}
